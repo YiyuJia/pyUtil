@@ -1,0 +1,9 @@
+MANIFEST.in
+README.rst
+yiyuLibs.egg-info/PKG-INFO
+yiyuLibs.egg-info/SOURCES.txt
+yiyuLibs.egg-info/dependency_links.txt
+yiyuLibs.egg-info/not-zip-safe
+yiyuLibs.egg-info/requires.txt
+yiyuLibs.egg-info/top_level.txt
+yiyuUtil/__init__.py
